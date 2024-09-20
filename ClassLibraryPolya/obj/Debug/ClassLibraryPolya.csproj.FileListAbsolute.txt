@@ -1,0 +1,12 @@
+C:\Users\admin\Downloads\WindowsFormsPolina\ClassLibraryPolya\obj\Debug\ClassLibraryPolya.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\WindowsFormsPolina\ClassLibraryPolya\obj\Debug\ClassLibraryPolya.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\WindowsFormsPolina\ClassLibraryPolya\bin\Debug\ClassLibraryPolya.dll
+C:\Users\admin\Downloads\WindowsFormsPolina\ClassLibraryPolya\bin\Debug\ClassLibraryPolya.pdb
+C:\Users\admin\Downloads\WindowsFormsPolina\ClassLibraryPolya\obj\Debug\ClassLibraryPolya.dll
+C:\Users\admin\Downloads\WindowsFormsPolina\ClassLibraryPolya\obj\Debug\ClassLibraryPolya.pdb
+C:\Users\User\Downloads\WindowsFormsPolina (2)\WindowsFormsPolina\ClassLibraryPolya\bin\Debug\ClassLibraryPolya.dll
+C:\Users\User\Downloads\WindowsFormsPolina (2)\WindowsFormsPolina\ClassLibraryPolya\bin\Debug\ClassLibraryPolya.pdb
+C:\Users\User\Downloads\WindowsFormsPolina (2)\WindowsFormsPolina\ClassLibraryPolya\obj\Debug\ClassLibraryPolya.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\WindowsFormsPolina (2)\WindowsFormsPolina\ClassLibraryPolya\obj\Debug\ClassLibraryPolya.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\WindowsFormsPolina (2)\WindowsFormsPolina\ClassLibraryPolya\obj\Debug\ClassLibraryPolya.dll
+C:\Users\User\Downloads\WindowsFormsPolina (2)\WindowsFormsPolina\ClassLibraryPolya\obj\Debug\ClassLibraryPolya.pdb

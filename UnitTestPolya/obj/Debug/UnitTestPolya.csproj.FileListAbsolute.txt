@@ -1,0 +1,46 @@
+C:\Users\admin\Downloads\WindowsFormsPolina\UnitTestPolya\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\admin\Downloads\WindowsFormsPolina\UnitTestPolya\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\admin\Downloads\WindowsFormsPolina\UnitTestPolya\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\admin\Downloads\WindowsFormsPolina\UnitTestPolya\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\admin\Downloads\WindowsFormsPolina\UnitTestPolya\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\admin\Downloads\WindowsFormsPolina\UnitTestPolya\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\admin\Downloads\WindowsFormsPolina\UnitTestPolya\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\admin\Downloads\WindowsFormsPolina\UnitTestPolya\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\admin\Downloads\WindowsFormsPolina\UnitTestPolya\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\admin\Downloads\WindowsFormsPolina\UnitTestPolya\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\admin\Downloads\WindowsFormsPolina\UnitTestPolya\bin\Debug\UnitTestPolya.dll
+C:\Users\admin\Downloads\WindowsFormsPolina\UnitTestPolya\bin\Debug\UnitTestPolya.pdb
+C:\Users\admin\Downloads\WindowsFormsPolina\UnitTestPolya\bin\Debug\ClassLibraryPolya.dll
+C:\Users\admin\Downloads\WindowsFormsPolina\UnitTestPolya\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\admin\Downloads\WindowsFormsPolina\UnitTestPolya\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\admin\Downloads\WindowsFormsPolina\UnitTestPolya\bin\Debug\ClassLibraryPolya.pdb
+C:\Users\admin\Downloads\WindowsFormsPolina\UnitTestPolya\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\admin\Downloads\WindowsFormsPolina\UnitTestPolya\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\admin\Downloads\WindowsFormsPolina\UnitTestPolya\obj\Debug\UnitTestPolya.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\WindowsFormsPolina\UnitTestPolya\obj\Debug\UnitTestPolya.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\WindowsFormsPolina\UnitTestPolya\obj\Debug\UnitTest.6D34DAC6.Up2Date
+C:\Users\admin\Downloads\WindowsFormsPolina\UnitTestPolya\obj\Debug\UnitTestPolya.dll
+C:\Users\admin\Downloads\WindowsFormsPolina\UnitTestPolya\obj\Debug\UnitTestPolya.pdb
+C:\Users\User\Downloads\WindowsFormsPolina (2)\WindowsFormsPolina\UnitTestPolya\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\User\Downloads\WindowsFormsPolina (2)\WindowsFormsPolina\UnitTestPolya\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Downloads\WindowsFormsPolina (2)\WindowsFormsPolina\UnitTestPolya\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\User\Downloads\WindowsFormsPolina (2)\WindowsFormsPolina\UnitTestPolya\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\User\Downloads\WindowsFormsPolina (2)\WindowsFormsPolina\UnitTestPolya\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Downloads\WindowsFormsPolina (2)\WindowsFormsPolina\UnitTestPolya\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\User\Downloads\WindowsFormsPolina (2)\WindowsFormsPolina\UnitTestPolya\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\User\Downloads\WindowsFormsPolina (2)\WindowsFormsPolina\UnitTestPolya\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\User\Downloads\WindowsFormsPolina (2)\WindowsFormsPolina\UnitTestPolya\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\User\Downloads\WindowsFormsPolina (2)\WindowsFormsPolina\UnitTestPolya\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\User\Downloads\WindowsFormsPolina (2)\WindowsFormsPolina\UnitTestPolya\bin\Debug\UnitTestPolya.dll
+C:\Users\User\Downloads\WindowsFormsPolina (2)\WindowsFormsPolina\UnitTestPolya\bin\Debug\UnitTestPolya.pdb
+C:\Users\User\Downloads\WindowsFormsPolina (2)\WindowsFormsPolina\UnitTestPolya\bin\Debug\ClassLibraryPolya.dll
+C:\Users\User\Downloads\WindowsFormsPolina (2)\WindowsFormsPolina\UnitTestPolya\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\User\Downloads\WindowsFormsPolina (2)\WindowsFormsPolina\UnitTestPolya\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\User\Downloads\WindowsFormsPolina (2)\WindowsFormsPolina\UnitTestPolya\bin\Debug\ClassLibraryPolya.pdb
+C:\Users\User\Downloads\WindowsFormsPolina (2)\WindowsFormsPolina\UnitTestPolya\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\User\Downloads\WindowsFormsPolina (2)\WindowsFormsPolina\UnitTestPolya\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\User\Downloads\WindowsFormsPolina (2)\WindowsFormsPolina\UnitTestPolya\obj\Debug\UnitTestPolya.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\WindowsFormsPolina (2)\WindowsFormsPolina\UnitTestPolya\obj\Debug\UnitTestPolya.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\WindowsFormsPolina (2)\WindowsFormsPolina\UnitTestPolya\obj\Debug\UnitTestPolya.csproj.CopyComplete
+C:\Users\User\Downloads\WindowsFormsPolina (2)\WindowsFormsPolina\UnitTestPolya\obj\Debug\UnitTestPolya.dll
+C:\Users\User\Downloads\WindowsFormsPolina (2)\WindowsFormsPolina\UnitTestPolya\obj\Debug\UnitTestPolya.pdb

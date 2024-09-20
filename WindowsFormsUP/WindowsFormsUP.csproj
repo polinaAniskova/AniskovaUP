@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3DB3BA70-DF99-424E-8B20-C69A196C2395}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WindowsFormsUP</RootNamespace>
+    <AssemblyName>WindowsFormsUP</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ClassLibraryPolya">
+      <HintPath>..\ClassLibraryPolya\bin\Debug\ClassLibraryPolya.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="QRCoder, Version=1.6.0.0, Culture=neutral, PublicKeyToken=c4ed5b9ae8358a28, processorArchitecture=MSIL">
+      <HintPath>packages\QRCoder.1.6.0\lib\net40\QRCoder.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DbConnectionHelper.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Администратор.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Администратор.Designer.cs">
+      <DependentUpon>Администратор.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Авторизация.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Авторизация.Designer.cs">
+      <DependentUpon>Авторизация.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ЗаявкиМенеджер.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ЗаявкиМенеджер.Designer.cs">
+      <DependentUpon>ЗаявкиМенеджер.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Мастер.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Мастер.Designer.cs">
+      <DependentUpon>Мастер.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Заявки.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Заявки.Designer.cs">
+      <DependentUpon>Заявки.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Заказчик.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Заказчик.Designer.cs">
+      <DependentUpon>Заказчик.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Профиль.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Профиль.Designer.cs">
+      <DependentUpon>Профиль.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Администратор.resx">
+      <DependentUpon>Администратор.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Авторизация.resx">
+      <DependentUpon>Авторизация.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ЗаявкиМенеджер.resx">
+      <DependentUpon>ЗаявкиМенеджер.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Мастер.resx">
+      <DependentUpon>Мастер.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Заявки.resx">
+      <DependentUpon>Заявки.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Заказчик.resx">
+      <DependentUpon>Заказчик.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Профиль.resx">
+      <DependentUpon>Профиль.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="System\Configuration\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Фотка.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Профиль.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
